@@ -1,14 +1,8 @@
-<h1 align="center">
-  <br>
-  <a href="https://devemdobro.com" target="_blank"><img src="https://devemdobro.com/wp-content/uploads/2022/12/PNG-Semana-do-zero-ao-programador-contratado-2-1-300x125.png" alt="Dev em Dobro - Logo" width="200"></a>
-  <br>
-  MyTraveling
-  <br>
-</h1>
+<h1 align="center">MyTraveling</h1>
 
 <h4 align="center"></h4>
 
-![screenshot]()
+![screenshot](https://github.com/user-attachments/assets/1cc77915-c0de-4712-9643-853059a64402)
 
 ## 💻 Sobre o projeto
 
